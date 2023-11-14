@@ -1,0 +1,15 @@
+.App {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.stopwatch {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.controls button {
+    font-size: 1em;
+    margin: 0 5px;
+    padding: 10px;
+}
